@@ -8,7 +8,7 @@ You need a torrent client, and a Debian based distro. I tested this using Linux 
 
 ## Running The Script
 ```
-git clone https://github.com/eliashow/project1999-for-linux.git
+git clone https://github.com/ejh-github/project1999-for-linux.git
 cd project1999-for-linux
 bash install.sh
 ```
