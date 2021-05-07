@@ -22,7 +22,7 @@ cd /home/$USER/Downloads
 unzip EverQuest\ Project\ 1999.zip -d /home/$USER/
 cd /home/$USER/'EverQuest Project 1999'/
 wget --cipher 'DEFAULT:!DH' https://www.project1999.com/files/P99Files54.zip
-unzip 'P99Files53.zip' -d P99spellfiles
+unzip 'P99Files54.zip' -d P99spellfiles
 rsync -av /home/$USER/EverQuest\ Project\ 1999/P99spellfiles/ /home/$USER/EverQuest\ Project\ 1999/
 mv /home/$USER/'EverQuest Project 1999' /home/$USER/Project1999 
 
